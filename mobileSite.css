@@ -83,7 +83,6 @@ p{
   display: none;
   max-height:50vh;
   width:40vw;
-  max-width:99vw;
   /*background-color: lightgrey;
   position: relative;*/
   overflow-x: hidden;
@@ -203,6 +202,7 @@ p{
 										  position: relative;*/
 										  padding: 2vw;
 										  overflow-x: hidden;
+										  margin:0px;
 										}
 
 										.dropdown:hover .dropdown-content {
