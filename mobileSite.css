@@ -65,11 +65,12 @@ p{
 
 .dropdown-content {
   display: none;
-  height:20vh;
+  max-height:50vh;
   max-width:99vw;
-  background-color: blue;
-  position: relative;
+  background-color: lightgrey;
+  /*position: relative;*/
   padding: 2vw;
+  padding-right:20vw;
 }
 
 .dropdown:hover .dropdown-content {
