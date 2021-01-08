@@ -121,7 +121,7 @@ p{
 											margin:0px;
 											overflow-x: hidden;
 
-											background-color: red;
+											background-color: blue;
 										}
 
 										.page{
@@ -180,6 +180,7 @@ p{
 										.dropdowns{
 											padding:2vw;
 											padding-top:4vw;
+											overflow-x: hidden;
 										}
 
 										.dropdown {
@@ -198,18 +199,16 @@ p{
 
 										.dropdown-content {
 										  display: none;
-										  max-height:50vh;
-										  width:75vw;
+										  width:74vw;
 										  /*background-color: lightgrey;
 										  position: relative;*/
 										  padding: 2vw;
-										  overflow-x: hidden;
-										  margin:0px;
+										  margin-right: 0px;
+										  padding-right:5vw;
 										}
 
 										.dropdown:hover .dropdown-content {
-										  display: block;
-										  overflow-x: hidden;
+										  display: inline block;
 										}
 
 
