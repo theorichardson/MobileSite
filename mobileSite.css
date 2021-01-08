@@ -48,6 +48,7 @@ p{
 
 .header{
 
+	display:inline-block;
 	margin:0px;
 
 	padding:2vw;
@@ -111,7 +112,7 @@ p{
 
 
 
-										@media screen and (max-width: 1000px) {
+										@media screen and (max-width: 1250px) {
 
 										main{
 											overflow-x: hidden;
@@ -124,7 +125,7 @@ p{
 
 										.page{
 											margin:0px;
-											padding:0px;
+											padding:2vw;
 
 											height: 100vh;
 										}
@@ -162,7 +163,9 @@ p{
 
 
 										.header{
-											height:32vh;
+
+											display:inline-block;
+											
 
 											margin:0px;
 
@@ -175,6 +178,7 @@ p{
 
 										.dropdowns{
 											padding:2vw;
+											padding-top:4vw;
 										}
 
 										.dropdown {
