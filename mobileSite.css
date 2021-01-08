@@ -1,15 +1,21 @@
-@import url("https://use.typekit.net/kwf4fbk.css");
-
 body{
 	margin:0px;
+}
+
+
+h1{
+	font-size: 10vw;
+
+	font-family: 'Playfair Display', serif;
+
+	margin:0px;
+
 }
 
 p{
 	font-size: 8vw;
 
-	font-family: franklin-gothic-compressed, sans-serif;
-	font-style: normal;
-	font-weight: 400;  
+	font-family: 'Roboto', sans-serif;
 
 	margin:0px;
 }
