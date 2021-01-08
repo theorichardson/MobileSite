@@ -1,0 +1,25 @@
+@import url("https://use.typekit.net/kwf4fbk.css");
+
+body{
+	margin:0px;
+}
+
+p{
+	font-size: 8vw;
+
+	font-family: franklin-gothic-compressed, sans-serif;
+	font-style: normal;
+	font-weight: 400;  
+
+	margin:0px;
+}
+
+
+
+.header{
+	height:50vh;
+	background-color: red;
+	margin:0px;
+
+	padding:2vw;
+}
