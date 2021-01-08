@@ -79,11 +79,11 @@ p{
 .dropdown-content {
   display: none;
   max-height:50vh;
+  width:80vw;
   max-width:99vw;
   /*background-color: lightgrey;
   position: relative;*/
   padding: 2vw;
-  margin-right:20vw;
   overflow-x: hidden;
 }
 
