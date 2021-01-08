@@ -1,9 +1,10 @@
 main{
-	overflow-x: 0;
+	overflow-x: hidden;
 }
 
 body{
 	margin:0px;
+	overflow-x: hidden;
 }
 
 .page{
