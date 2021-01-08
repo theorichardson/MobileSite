@@ -21,7 +21,9 @@ h2{
 	margin:1vw;
 	margin-bottom:2vw;
 
+
 }
+
 
 p{
 	font-size: 5vw;
@@ -33,9 +35,48 @@ p{
 
 
 .header{
-	height:50vh;
-	background-color: red;
+	height:32vh;
+
 	margin:0px;
 
 	padding:2vw;
+
+	line-height: 1.5
 }
+
+
+
+.dropdowns{
+	padding:2vw;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+
+.dropdown:hover{
+	transform: translate(7vw);
+	transition: .5s; 
+}
+
+
+
+.dropdown-content {
+  display: none;
+  height:20vh;
+  max-width:99vw;
+  background-color: blue;
+  position: relative;
+  padding: 2vw;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+
+
+
