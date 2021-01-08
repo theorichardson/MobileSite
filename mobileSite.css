@@ -83,7 +83,7 @@ p{
   /*background-color: lightgrey;
   position: relative;*/
   padding: 2vw;
-  padding-right:20vw;
+  margin-right:20vw;
   overflow-x: hidden;
 }
 
