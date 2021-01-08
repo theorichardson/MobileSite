@@ -12,12 +12,12 @@ body{
 	padding:25vw;
 	padding-top:0px;
 
-	height: 100vh;
+	height:70vh;
 }
 
 
 h1{
-	font-size: 6vw;
+	font-size: 5vw;
 	font-family: 'Playfair Display', serif;
 	font-style: italic;
 
@@ -27,7 +27,7 @@ h1{
 }
 
 h2{
-	font-size: 4vw;
+	font-size: 3vw;
 	font-family: 'Playfair Display', serif;
 	font-style: italic;
 
@@ -38,7 +38,7 @@ h2{
 
 
 p{
-	font-size: 2vw;
+	font-size: 1.5vw;
 	font-family: 'Roboto', sans-serif;
 
 	margin:1vw;
@@ -111,7 +111,7 @@ p{
 
 
 
-										@media screen and (max-width: 600px) {
+										@media screen and (max-width: 800px) {
 
 										main{
 											overflow-x: hidden;
