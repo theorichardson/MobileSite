@@ -96,6 +96,26 @@ p{
 
 
 
+.workSamples{
+	display:flex;
+	flex-direction: column;
+	/*column-gap: 1vw;*/
+	text-align: center;
+	width:100%;
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+}
+
+.workSamples img{
+	height: 60vw;
+	padding:1vw;
+}
+
+
+
+
+
 .footer{
 
 	position:absolute;
